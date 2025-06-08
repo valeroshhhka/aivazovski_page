@@ -29,7 +29,7 @@
 }
 
 .nav-link:hover {
-  color: black;
+  background-color: (--color-black);
 }
 
 @media (max-width: 400px) {

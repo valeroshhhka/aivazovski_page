@@ -35,11 +35,11 @@
 .social-icon {
   width: 65px;
   height: 65px;
-  fill: var(--color-black);
+  fill: rgb(0, 0, 0);
 }
 
 .social-icon:hover {
-  fill: var(--bg-main);
+  fill: rgb(238, 41, 195);
 }
 
 .contacts-info {
